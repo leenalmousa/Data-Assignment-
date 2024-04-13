@@ -1,4 +1,3 @@
-#include "point.h"
 #include <iostream>
 using namespace std;
 #include <cmath>
@@ -212,7 +211,6 @@ return length;
 }
 
  
-#include "tour.cpp"
 int main() {
   Tour<int> t1;
   
